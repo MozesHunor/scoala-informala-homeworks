@@ -12,22 +12,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java">
+      <file leaf-file-name="GreenBudgetProgram.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/GreenBudgetProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Green.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Green.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="289">
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,18 +51,51 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-641">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+                <element signature="e#1148#1149#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+                <element signature="e#1222#1223#0" expanded="true" />
+                <element signature="e#1260#1261#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1406#1407#0" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1473#1474#0" expanded="true" />
+                <element signature="e#1522#1523#0" expanded="true" />
+                <element signature="e#1566#1567#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dealership.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java">
+      <file leaf-file-name="DealershipTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,11 +103,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DealershipTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java">
+      <file leaf-file-name="Dealership.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            <state relative-caret-position="595">
+              <caret line="35" column="54" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,17 +143,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ro/scit/dealership/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/scit/dealership/Green.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/main/java/ro/scit/dealership/DealershipTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/scit/dealership/GreenBudgetProgram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/scit/dealership/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java" />
         <option value="$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="width" value="1381" />
     <option name="height" value="744" />
@@ -122,6 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,8 +217,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -173,6 +225,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -194,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.DealershipTest">
     <configuration name="DealershipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -257,8 +310,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DealershipTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DealershipTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,35 +338,48 @@
     <history-entry file="DealershipTest - 2017.09.06 at 22h 44m 40s.xml">
       <configuration name="DealershipTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DealershipTest - 2017.09.10 at 13h 59m 35s.xml">
+      <configuration name="DealershipTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest - 2017.09.10 at 19h 23m 32s.xml">
+      <configuration name="DealershipTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest - 2017.09.10 at 19h 52m 49s.xml">
+      <configuration name="DealershipTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest - 2017.09.24 at 12h 37m 07s.xml">
+      <configuration name="DealershipTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1381" height="744" extended-state="0" />
+    <frame x="-8" y="0" width="1381" height="744" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -331,27 +397,35 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/main/java/ro/scit/dealership/DealershipTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Green.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/GreenBudgetProgram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -367,14 +441,148 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="476">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/GreenBudgetProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -384,8 +592,213 @@
     <entry file="file://$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/GreenBudgetProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/main/java/ro/scit/dealership/DealershipTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/Dealership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="54" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/java/ro/scit/dealership/DealershipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/scit/dealership/GreenBudgetProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
